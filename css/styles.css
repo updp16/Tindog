@@ -160,7 +160,7 @@ p{
         width: 60%;
         transform: rotate(0);
     }
-    .container-fluid{
+    #title .container-fluid{
         text-align: center;
     }
 }
